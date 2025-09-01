@@ -15,7 +15,7 @@
 ---
 
 ## 📌 Projetos
-- [Calculadora de Médias - ADS](link-do-repo) → Projeto acadêmico simples para praticar lógica de programação e versionamento.  
+- [Calculadora de Médias - ADS](https://github.com/Oogabb/calculadora-medias) → lógica básica, fluxo de entrada/validação e versionamento.
 - *(em breve mais projetos para acompanhar minha evolução em ADS)*  
 
 ---
