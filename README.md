@@ -21,4 +21,4 @@
 ---
 
 ## 🌐 Conecte-se comigo
-[LinkedIn](https://www.linkedin.com/in/seu-link) | [E-mail](mailto:seu-email)
+[LinkedIn](https://www.linkedin.com/in/gabriel-boscovich/) | [E-mail](mailto:boscovichg@gmail.com)
